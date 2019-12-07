@@ -3,3 +3,4 @@
 3.test_scano3
 4.test_scano4
 5.testS_cano5
+6.push limpio
